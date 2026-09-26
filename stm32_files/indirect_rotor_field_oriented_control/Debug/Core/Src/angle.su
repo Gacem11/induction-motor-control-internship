@@ -1,0 +1,2 @@
+../Core/Src/angle.c:10:6:Angle_Reset	4	static
+../Core/Src/angle.c:15:7:Angle_Update	24	static

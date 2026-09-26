@@ -1,0 +1,5 @@
+../Core/Src/stm_fitst_contact_0.c:94:6:stm_fitst_contact_0_cScriptStart	1
+../Core/Src/stm_fitst_contact_0.c:99:6:stm_fitst_contact_0_cScriptOutput	1
+../Core/Src/stm_fitst_contact_0.c:105:6:stm_fitst_contact_0_cScriptUpdate	1
+../Core/Src/stm_fitst_contact_0.c:110:6:stm_fitst_contact_0_cScriptDerivative	1
+../Core/Src/stm_fitst_contact_0.c:115:6:stm_fitst_contact_0_cScriptTerminate	1

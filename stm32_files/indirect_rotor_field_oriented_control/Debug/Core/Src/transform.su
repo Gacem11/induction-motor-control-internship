@@ -1,0 +1,2 @@
+../Core/Src/transform.c:4:6:abc_to_dq	48	static
+../Core/Src/transform.c:18:6:dq_to_abc	48	static

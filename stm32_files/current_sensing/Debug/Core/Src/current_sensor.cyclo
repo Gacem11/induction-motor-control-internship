@@ -1,0 +1,3 @@
+../Core/Src/current_sensor.c:20:6:HAL_ADC_ConvCpltCallback	3
+../Core/Src/current_sensor.c:34:6:CurrentSensor_Init	1
+../Core/Src/current_sensor.c:47:6:Read_Currents	4

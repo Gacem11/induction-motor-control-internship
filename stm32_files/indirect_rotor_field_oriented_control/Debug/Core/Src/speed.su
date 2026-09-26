@@ -1,0 +1,4 @@
+../Core/Src/speed.c:21:6:Speed_Init	16	static
+../Core/Src/speed.c:48:14:RPM_Filter	16	static
+../Core/Src/speed.c:59:6:HAL_TIM_IC_CaptureCallback	24	static
+../Core/Src/speed.c:105:6:Speed_CheckTimeout	8	static

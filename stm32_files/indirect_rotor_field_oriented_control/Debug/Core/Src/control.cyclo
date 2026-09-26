@@ -1,0 +1,2 @@
+../Core/Src/control.c:33:6:Control_Init	1
+../Core/Src/control.c:53:6:HAL_ADCEx_InjectedConvCpltCallback	9

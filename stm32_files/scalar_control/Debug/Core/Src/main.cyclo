@@ -1,0 +1,9 @@
+../Core/Src/main.c:76:5:main	10
+../Core/Src/main.c:178:6:SystemClock_Config	3
+../Core/Src/main.c:222:6:HAL_UART_RxCpltCallback	17
+../Core/Src/main.c:277:6:HAL_TIM_PeriodElapsedCallback	5
+../Core/Src/main.c:310:7:RPM_Filter	4
+../Core/Src/main.c:334:6:HAL_TIM_IC_CaptureCallback	7
+../Core/Src/main.c:379:6:syst_initialization	1
+../Core/Src/main.c:419:7:PI_Controller	3
+../Core/Src/main.c:450:6:Error_Handler	1
